@@ -1,6 +1,6 @@
-def multiply():
-    result = 10.5 * 4
+def multiply(x ,y):
+    result = x * y
     return result
 
-answer = multiply() 
+answer = multiply(5,) 
 print(answer)
