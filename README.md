@@ -1,8 +1,6 @@
 # Josh's GitHub Repository :wave:
 
-[![Josh's](https://github-readme-stats.vercel.app/api?username=jbrewer3)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrewer3&theme=dark&show_icons=true)
 
 ## Introduction :star2:
 Welcome to my GitHub repository! I'm a Kubernetes engineer :wheel_of_dharma: specializing in AWS cloud :cloud:. This repository showcases my projects, certifications, and expertise in the field. I have experience working with various tools, including Nginx, Grafana, Elastic, Prometheus, and GitLab, to name a few. My favorite programming and scripting languages are Bash, Python, and Golang.
