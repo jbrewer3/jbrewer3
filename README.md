@@ -1,6 +1,6 @@
 # Josh's GitHub Repository :wave:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrewer3)](https://github.com/anuraghazra/github-readme-stats)
+[![Josh's](https://github-readme-stats.vercel.app/api?username=jbrewer3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
