@@ -1,6 +1,6 @@
 # Josh's GitHub Repository :wave:
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrewer3&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrewer3&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrewer3&theme=dark&show_icons=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrewer3&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Introduction :star2:
 Welcome to my GitHub repository! I'm a Kubernetes engineer :wheel_of_dharma: specializing in AWS cloud :cloud:. This repository showcases my projects, certifications, and expertise in the field. I have experience working with various tools, including Nginx, Grafana, Elastic, Prometheus, and GitLab, to name a few. My favorite programming and scripting languages are Bash, Python, and Golang.
