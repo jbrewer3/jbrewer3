@@ -25,6 +25,7 @@ Feel free to explore the projects and their respective directories for more deta
 - NGINX
 - Docker
 - Gitlab
+- EKS
 
 ## Contact Information :mailbox:
 If you have any questions or would like to connect, feel free to reach out to me via joshuabrewer.d@gmail.com or https://www.linkedin.com/in/joshuabrewer3. I'm open to collaborations and discussions related to Kubernetes, AWS cloud, and cloud engineering in general.
